@@ -1,2 +1,1 @@
-PRA-Token
-ERC 20 Token
+Smart Contract to create an ERC 20 Token named PRA-Token
